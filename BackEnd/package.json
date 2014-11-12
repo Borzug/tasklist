@@ -1,0 +1,13 @@
+{
+  "name": "BackEnd",
+  "version": "0.0.0",
+  "description": "BackEnd",
+  "main": "app.js",
+  "author": {
+    "name": "Denis",
+    "email": ""
+  },
+  "dependencies": {
+    "express": "3.4.4"
+  }
+}
